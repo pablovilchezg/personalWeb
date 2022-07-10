@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Zenidd/static/css/main.073c9b0a.css",
-    "main.js": "/Zenidd/static/js/main.6ac1f2d8.js",
-    "static/js/787.1f32fba0.chunk.js": "/Zenidd/static/js/787.1f32fba0.chunk.js",
+    "main.js": "/Zenidd/static/js/main.16b182a3.js",
+    "static/js/787.9b9cfc21.chunk.js": "/Zenidd/static/js/787.9b9cfc21.chunk.js",
     "static/media/logo.svg": "/Zenidd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Zenidd/index.html",
     "main.073c9b0a.css.map": "/Zenidd/static/css/main.073c9b0a.css.map",
-    "main.6ac1f2d8.js.map": "/Zenidd/static/js/main.6ac1f2d8.js.map",
-    "787.1f32fba0.chunk.js.map": "/Zenidd/static/js/787.1f32fba0.chunk.js.map"
+    "main.16b182a3.js.map": "/Zenidd/static/js/main.16b182a3.js.map",
+    "787.9b9cfc21.chunk.js.map": "/Zenidd/static/js/787.9b9cfc21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6ac1f2d8.js"
+    "static/js/main.16b182a3.js"
   ]
 }
