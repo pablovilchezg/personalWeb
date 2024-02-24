@@ -12,19 +12,19 @@ function App() {
       <div>
         <Header/>
       </div>
-      <h2>Juan Pablo Sáez (Zenid) here</h2>
+      <h2>Pablo Vilchez</h2>
       <div className="card">
         <p>
-        I love Linux, the cloud ecosystem and electronics. <br/>
-        Currently following the DevOps path 🎋.
+        I am interested in areas like medicine, automotive, <br/>
+        security, electronic support devices, and much more.
         </p>
       </div>
 
 
-        <a href="https://www.linkedin.com/in/juanpablosaezgutierrez/" target="_blank">
+        <a href="https://www.linkedin.com/in/pvilchezg/" target="_blank">
           <img src={linkedinLogo} className="logo" alt="LinkedIn logo" />
         </a>
-        <a href="https://github.com/Zenidd" target="_blank">
+        <a href="https://github.com/pablovilchezg" target="_blank">
           <img src={githubLogo} className="logo react" alt="Github logo" />
         </a>
       <p className="read-the-docs">
@@ -32,7 +32,7 @@ function App() {
       </p>
       <button onClick={() => setCount((count) => count + 1)}>
           Hit me {count}
-        </button>
+      </button>
 
     </>
   )
